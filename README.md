@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻IT developer<br>🔭Currently learning ASP.NET.<br>📪Contact me at "obradpualic@gmail.com".<br>2️⃣Years of experience.<br>👷‍♂️Currently working on self project PcShopApp, and course project DatingApp.
+💻IT developer<br>🔭Currently learning ASP.NET.<br>📪Contact me at "obradpualic@gmail.com".<br>2️⃣Years of experience.<br>👷‍♂️Currently working on self-project PcShopApp, and course project DatingApp.
 
 
 # 💻 Tech Stack:
@@ -7,10 +7,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ObradPR&theme=default&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ObradPR&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ObradPR&icon=0&color=0)](https://visitcount.itsvg.in)
