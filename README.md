@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻Full stack Web Developer<br>🔭Currently learning ASP.NET.<br>📪Contact me at "obradpualic@gmail.com".<br>2️⃣Years of experience.<br>👷‍♂️Currently working on self-project PcShopApp, and course project DatingApp.
+💻Full stack Web Developer<br>🔭Currently learning ASP.NET.<br>📪Contact me at "obradpualic@gmail.com".<br>2️⃣Years of experience.<br>👷‍♂️Currently working on self-project PcShopApp, course project DatingApp, and collab project JourneyEase.
 
 
 # 💻 Tech Stack:
